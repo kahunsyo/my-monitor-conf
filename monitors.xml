@@ -1,0 +1,36 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>HDMI-0</connector>
+          <vendor>IOD</vendor>
+          <product>LCD-PHQ321XQ</product>
+          <serial>111Z00085566</serial>
+        </monitorspec>
+        <mode>
+          <width>2560</width>
+          <height>1440</height>
+          <rate>59.941070556640625</rate>
+        </mode>
+      </monitor>
+      <monitor>
+        <monitorspec>
+          <connector>DP-0</connector>
+          <vendor>HPN</vendor>
+          <product>OMEN 27i IPS</product>
+          <serial>6CM0480JKD</serial>
+        </monitorspec>
+        <mode>
+          <width>2560</width>
+          <height>1440</height>
+          <rate>119.99759674072266</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>
